@@ -408,8 +408,8 @@ body {
     align-items: center;
 }
 .news-card-image {
-    width: 6.94vw;
-    height: 9.77vh;
+    width: 100px;
+    height: 100px;
     margin-right: 1.39vw;
 }
 .news-card-data {
